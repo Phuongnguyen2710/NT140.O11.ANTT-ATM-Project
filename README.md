@@ -15,4 +15,4 @@
 
 
 ## Bài báo
-Bài báo liên quan đến đồ án của chúng tôi có tiêu đề "An toàn mạng" và được đăng trên arXiv. Bạn có thể đọc bài báo đầy đủ tại Implement Fusion of statistical importance for feature selection in Deep Neural Network-based Intrusion Detection System](https://github.com/Phuongnguyen2710/NT140.O11.ANTT-ATM-Project/blob/main/B%C3%A0i%20b%C3%A1o%20An%20to%C3%A0n%20m%E1%BA%A1ng.pdf).
+Bài báo liên quan đến đồ án của chúng tôi có tiêu đề "An toàn mạng" và được đăng trên ScienceDirect. Bạn có thể đọc bài báo đầy đủ tại [Implement Fusion of Statistical Importance for Feature Selection in Deep Neural Network-based Intrusion Detection System](https://github.com/Phuongnguyen2710/NT140.O11.ANTT-ATM-Project/blob/main/B%C3%A0i%20b%C3%A1o%20An%20to%C3%A0n%20m%E1%BA%A1ng.pdf).
